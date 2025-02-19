@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BedLed</string>
+    <string name="connect">Connect</string>
+    <string name="press_the_connect_button_before_starting">Press the Connect button before starting</string>
+    <string name="off_on" translatable="false">OFF/ON</string>
+    <string name="side">Side</string>
+    <string name="color_picker_zone_1" translatable="false">Color picker Zone 1</string>
+    <string name="front">Front</string>
+    <string name="color_picker_zone_2" translatable="false">Color picker zone 2</string>
+    <string name="back">Back</string>
+    <string name="color_picker_zone_3" translatable="false">Color picker zone 3</string>
+    <string name="under">Under</string>
+    <string name="color_picker_zone_4" translatable="false">Color picker zone 4</string>
+    <string name="all">All</string>
+    <string name="color_picker_all_zone" translatable="false">Color picker all zone</string>
+    <string name="send_change_to_the_board">Send change to the board</string>
+    <string name="connecting">Connecting</string>
+    <string name="connected">Connected</string>
+    <string name="sw1" translatable="false">1</string>
+    <string name="sw2" translatable="false">2</string>
+    <string name="sw3" translatable="false">3</string>
+    <string name="sw4" translatable="false">4</string>
+    <string name="sw0" translatable="false">0</string>
+    <string name="single">Single</string>
+    <string name="shared">Shared</string>
+</resources>

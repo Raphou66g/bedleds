@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BedLed</string>
+    <string name="connect">Connection</string>
+    <string name="press_the_connect_button_before_starting">Connectez vous avant de commencer</string>
+    <string name="side">Coté</string>
+    <string name="front">Avant</string>
+    <string name="back">Arrière</string>
+    <string name="under">Dessous</string>
+    <string name="all">Tout</string>
+    <string name="send_change_to_the_board">Appliquer les changements</string>
+    <string name="connecting">Connection</string>
+    <string name="connected">Connecté</string>
+    <string name="single">Seul</string>
+    <string name="shared">Partagé</string>
+</resources>
